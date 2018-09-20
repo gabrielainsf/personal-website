@@ -1,0 +1,24 @@
+body  {
+    background-image: linear-gradient(#A673FF, pink);
+    height: 100%;
+    margin: 0;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+#transparent {
+    background-color:rgba(248, 218, 255, 0.1)
+}
+
+.resize {
+    height: auto;
+    width: auto;
+}
+
+.jumbotron {
+    margin-top: 4rem;
+}
+
+.techstack {
+    padding-top: 1rem;
+}
